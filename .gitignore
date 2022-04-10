@@ -1,0 +1,20 @@
+.Rproj.user
+.Rhistory
+.Ruserdata
+
+*.RData
+*.Rproj
+
+# data files
+*.pdf
+*.txt
+*.zip
+
+# folders in repo
+Literature/
+data/
+
+# RMD caches
+*_cache/
+*_files/
+

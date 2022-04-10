@@ -1,0 +1,59 @@
+---
+title: "Soil fauna diversity in grassland communities along elevational gradients"
+date: "2022/04/10"
+author: "Karthik Thrikkadeeri"
+editor_options: 
+  chunk_output_type: console
+bibliography: soil_grassland.bib
+link-citations: yes
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3  
+    number_sections: false  
+    theme: united  
+    highlight: tango  # specifies the syntax highlighting style
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(lubridate)
+library(patchwork)
+
+theme_set(theme_bw())
+
+# grassland_palette <- c("#1B9E77", "#E89005", "#EF4050", "#9678B6")
+
+knitr::opts_chunk$set(echo = FALSE, warnings = FALSE, 
+                      messages = FALSE, cache.lazy = FALSE)
+
+```
+
+```{r data_filt, cache=TRUE}
+
+
+```
+
+# Introduction
+
+***This notebook is the exploratory analysis notebook for the study. ***
+
+## Questions
+
+# Exploration
+
+## 
+
+```{r 01_, cache=TRUE, message=FALSE}
+
+
+```
+
+## 
+
+```{r 02_, cache=TRUE, message=FALSE}
+
+
+
+```
+
