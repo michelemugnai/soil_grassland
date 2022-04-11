@@ -26,6 +26,7 @@ theme_set(theme_bw())
 
 knitr::opts_chunk$set(echo = FALSE, warnings = FALSE, 
                       messages = FALSE, cache.lazy = FALSE)
+#fuck you
 
 ```
 
